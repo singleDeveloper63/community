@@ -6,6 +6,12 @@ export const companies = [
 		prominent: true,
 	},
 	{
+	  href : "https://hexagon-edu.uz",
+		src : "https://hexagon-edu.uz/assets/logo.svg",
+		alt : "Hexagon education logo",
+		prominent : true
+	},
+	{
 		href: "https://yellowpop.com",
 		src: "organisations/yellowpop.svg",
 		alt: "Yellowpop logo",
